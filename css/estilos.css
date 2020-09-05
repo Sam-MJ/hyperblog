@@ -52,6 +52,13 @@ body
     padding: 1em;
 }
 
+#img_gif
+{
+    float: right;
+    width: 80px;
+    height: 80px;
+}
+
 #footer
 {
     background: #666;
