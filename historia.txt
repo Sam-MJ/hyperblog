@@ -1,0 +1,10 @@
+Esta es una pequña parte de mi historia en el curso de Git y Github de Platzi.
+
+Soy Sam Martínez de 30 años y quiero escribir mi historia en el Desarrollo Web.
+
+Me gusta mucho aprender.
+
+Ejercicio Rebase: Master 1
+
+Espero colaborar en algun proyecto pronto.
+
