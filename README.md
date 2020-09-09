@@ -7,5 +7,6 @@ Un blog increíble para el curso de Git y GitHub de Platzi:
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * El amor por las buenas prácticas
+* Créditos para el gran Platzi Team
 
 Es mi primer **readme.md** y realmente me gusta seguir aprendiendo sobre esta industria.
