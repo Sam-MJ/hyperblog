@@ -8,5 +8,6 @@ Un blog increíble para el curso de Git y GitHub de Platzi:
 * El flujo de trabajo en Github
 * El amor por las buenas prácticas
 * Créditos para el gran Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
 
 Es mi primer **readme.md** y realmente me gusta seguir aprendiendo sobre esta industria.
