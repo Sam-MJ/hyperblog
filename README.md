@@ -9,5 +9,6 @@ Un blog increíble para el curso de Git y GitHub de Platzi:
 * El amor por las buenas prácticas
 * Créditos para el gran Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Es mi primer **readme.md** y realmente me gusta seguir aprendiendo sobre esta industria.
